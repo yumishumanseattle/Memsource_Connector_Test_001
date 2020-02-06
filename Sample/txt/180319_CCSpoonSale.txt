@@ -1,0 +1,23 @@
+
+//COOKING CRAZE SPOON SALE INTERSTITIAL - MARCH 2018 (Please localize all lines below, even capitalized text. Do not localize lines marked with ***) 
+
+
+
+//SALE!
+SALE!
+
+
+//2X MORE FREE!
+//100 BONUS SPOONS!
+2X MORE FREE!
+100 BONUS SPOONS!
+
+
+**100 should appear crossed out, see source image*** 
+//100 200 SPOONS
+100 200 SPOONS
+
+//$1.99 USD
+
+//BUY NOW!
+BUY NOW!
