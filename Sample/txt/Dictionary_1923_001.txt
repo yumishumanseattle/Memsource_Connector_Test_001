@@ -1,0 +1,86 @@
+[18143]
+{0} just beat your score on level {1} in Quito, can you do better?
+
+[18144]
+Your boat is waiting for you in Quito!
+
+[18145]
+The boat is built! You'll need to unlock York before shipping your resources!
+
+[18146]
+York is coming soon! Use your boat as soon as it is available!
+
+[18147]
+Boat from Quito has arrived
+
+[18148]
+Resources were sent to Quito
+
+[18149]
+Vacation to Quito is over. Want to fly back to {0}?
+
+[18150]
+Cool! We're in Quito!
+
+[18151]
+Hola! Welcome to Quito! Can you help me bring this view into focus?
+
+[18152]
+Collect 10 cameras!
+
+[18153]
+Pencils would help me sketch out my next design. Can you find some?
+
+[18154]
+Collect 10 pencils!
+
+[18155]
+I’d salute you if you could find a hat to top off my uniform!
+
+[18156]
+Collect 10 hats!
+
+[18157]
+Drum mallets would help us find the rhythm. Can you help?
+
+[18158]
+Collect 10 drum mallets!
+
+[18159]
+Can you pluck up a hat for me?
+
+[18160]
+Collect 10 hats!
+
+[18161]
+Hiking poles would help me climb to the top! Can you find some?
+
+[18162]
+Collect 10 hiking poles!
+
+[18163]
+I need help gathering all the bells and whistles for my show!
+
+[18164]
+Collect 10 pan flutes!
+
+[18165]
+I need to buckle up for my guard shift!
+
+[18166]
+Collect 10 belts!
+
+[18167]
+Can you help me carve out some masks?
+
+[18168]
+Collect 10 jaguar masks!
+
+[18169]
+Could you help me weave together something to hold my roses?
+
+[18170]
+Collect 10 baskets!
+
+[18171]
+International University of Ecuador
